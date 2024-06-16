@@ -84,70 +84,59 @@ responses:
   - text: "Algunas de las materias principales que ofrece la carrera de Ingeniería Mecatrónica son:
            FUNDAMENTOS DE PROGRAMACIÓN, MECÁNICA, CÁLCULO MULTIVARIABLE, CIRCUITOS, DINÁMICA, MATERIALES, 
            AUTOMATIZACIÓN INDUSTRIAL, CONTROL AVANZADO, MÁQUINAS ELÉCTRICAS, INTELIGENCIA ARTIFICIAL, ETC. 
-           Solicita el plan de estudios completo en la oficina de admisiones de forma gratuita.
-          "
+           Solicita el plan de estudios completo en la oficina de admisiones de forma gratuita"
 
   utter_labs:
   - text: "Algunas de los principales laboratorios que tiene la carrera de Ingeniería Mecatrónica son:
            LABORATORIO DE MECÁNICA, LABORATORIO DE CIRCUITOS ELÉCTRICOS, LABORATORIO DE MÁQUINAS ELÉCTRICAS, 
            LABORATORIO DE ELECTRÓNICA, LABORATORIO DE OLEONEUMÁTICA,LABORATORIO DE AUTOMATIZACIÓN INDUSTRIAL, 
-           LABORATORIO DE MANUFACTURA, ETC.
-          "
+           LABORATORIO DE MANUFACTURA, ETC"
 
   utter_acreditation:
   - text: "La carrera de Ingeniería Mecatrónica cuenta con un registro Snies – 7731 y un registro Calificado 
-           – Resolución 13541 de Agosto 15, 2018 por 7 años.
-          "
+           – Resolución 13541 de Agosto 15, 2018 por 7 años"
 
   utter_jobs:
   - text: "Los principales trabajos a los que puede aplicar un Ingeniero Mecatrónico en la indutria, serían:
            Diseñador y desarrollador de nuevos productos y servicios en ingeniería, Jefe de Mantenimiento,
            Gerente de ventas y servicios de ingeniería, Ingeniero de operaciones, Supervisor de proyectos, 
-           Jefe en áreas de innovación y desarrollo de T.I
-           "
+           Jefe en áreas de innovación y desarrollo de TI"
 
   utter_functions:
   - text: "Las principales funciones que podría realizar un Ingeniero Mecatrónico, serían:
            Diseñar y desarrollar equipos, procesos o productos mecatrónicos que contengan mecánica de alta precisión, electrónica y control embebido, 
            Diseñar, implementar y adaptar soluciones de ingeniería basadas en técnicas de inteligencia artificial & Robótica, Automatizar y Optimizar 
-           procesos industriales que permitan aumentar la productividad de las empresas impactadas. 
-          "
+           procesos industriales que permitan aumentar la productividad de las empresas impactadas"
 
   utter_modality:
-  - text: "La carrera Ingeniería Mecatrónica se dicta en modalidad presencial."
+  - text: "La carrera Ingeniería Mecatrónica se dicta en modalidad presencial"
 
   utter_deegre:
-  - text: "Al finalizar la carrera Ingeniería Mecatrónica se obtiene el nivel de formación profesional."
+  - text: "Al finalizar la carrera Ingeniería Mecatrónica se obtiene el nivel de formación profesional"
 
   utter_duration:
-  - text: "La carrera Ingeniería Mecatrónica tiene una duración de 8 semestres."
+  - text: "La carrera Ingeniería Mecatrónica tiene una duración de 8 semestres"
 
   utter_cost:
   - text: "El costo de la matricula para la carrera Ingeniería Mecatrónica es de seis millones ciento sesenta 
-           y dos mil quinientos pesos colombianos."
+           y dos mil quinientos pesos colombianos"
 
   utter_definition:
   - text: "La ingeniería mecatrónica es una rama multidisciplinaria de la ingeniería, dedicada a automatizar 
           maquinaria, crear productos inteligentes que faciliten la vida de las personas y armonizar 
           componentes electrónicos y mecánicos a partir de la informática, la mecánica, los sistemas de 
-          control y la electrónica."
+          control y la electrónica"
 
   utter_profile:
   - text: "El Ingeniero Mecatrónico de la UNAB es un profesional competente, con sólidos conocimientos y 
   respetuoso de los valores de la sociedad. Es una persona que contribuye al desarrollo social, mediante 
   su participación y compromiso ético en áreas de las ciencias básicas, mecánica, electrónica, control y 
-  automatización en las organizaciones de los sectores público y privado. Es un ser reflexivo y crítico 
-  en la construcción de criterios para la toma de decisiones y es creativo e innovador en la solución de 
-  problemas. Sustenta su liderazgo en propuestas de desarrollo y competencias específicas en modelado y 
-  simulación, control y automatización, diseño de sistemas mecatrónicos para su implementación en máquinas, 
-  sistemas y procesos industriales."
+  automatización en las organizaciones de los sectores público y privado"
 
   utter_salary:
-  - text: "El salario promedio de un Ingeniero Mecatrónico en Colombia es de $ 2.370.010 por mes 
-  (alrededor $ 28.440.120 por año), más alto de $ 1.210.010 (+104%) en comparación con el salario promedio 
-  en Colombia.
-  El sueldo de un Ingeniero Mecatrónico puede empezar en un salario mínimo de $ 1.561.070 por mes, mientras 
-  que el salario máximo puede exceder los $ 3.925.100 por mes."
+  - text: "El salario promedio de un Ingeniero Mecatrónico en Colombia es de 2370010 millones de pesos por mes. 
+  El sueldo de un Ingeniero Mecatrónico puede empezar en un salario mínimo de 1561070 millones de pesos por mes, mientras 
+  que el salario máximo puede exceder los 3'925,100 millones de pesos por mes"
 
 session_config:
   session_expiration_time: 60
