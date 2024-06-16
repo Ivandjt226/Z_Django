@@ -81,7 +81,7 @@ function Chatbot() {
             }
             setBoxes(result);
         } catch (error) {
-            console.error('Error during fetch:', error);
+            //console.error('Error during fetch:', error);
         }
     }
 
